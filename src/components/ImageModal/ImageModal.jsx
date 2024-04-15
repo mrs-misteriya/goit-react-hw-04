@@ -1,5 +1,5 @@
 // import css from './ImageModal.module.css';
 
-export default function ImageModal() {
-  return ();
-}
+// export default function ImageModal() {
+//   return ();
+// }
