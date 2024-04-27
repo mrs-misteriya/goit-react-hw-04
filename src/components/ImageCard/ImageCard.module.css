@@ -1,0 +1,14 @@
+.imgContainer{
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.img {
+    object-fit: cover;
+}
+
+.imgP{
+    margin: 0;
+    padding: 0;
+}

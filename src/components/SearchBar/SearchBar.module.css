@@ -1,1 +1,40 @@
+.header{
+      position: fixed;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      background-color: #646cff;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      
+}
 
+.form{
+    display: flex;
+    gap: 8px;
+}
+
+
+.field{
+    border: 2px solid #646cff;
+    color: #646cff;
+    padding: 5px;
+    margin: 0;
+}
+
+.field:focus, .field:hover {
+    border: 2px solid #222ac4;
+}
+
+.button{
+    border: 2px solid #646cff;
+    border-radius: 0;
+    background-color: #fff;
+    text-shadow: #0c1164;  
+    color: #646cff;
+}
+
+.button:focus, .button:hover {
+    border: 2px solid #222ac4;
+}

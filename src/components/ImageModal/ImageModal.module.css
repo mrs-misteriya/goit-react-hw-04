@@ -1,0 +1,19 @@
+ 
+.img{
+    max-width: 500px;
+    /* max-height: 70%; */
+    /* object-fit: cover; */
+}
+ 
+
+.likes{
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    margin: 0;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: rgb(245, 245, 241);
+    background-color: rgba(0, 0, 10, 0.2);
+    border-radius: 4px;
+}
